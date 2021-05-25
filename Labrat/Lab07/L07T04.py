@@ -1,0 +1,6 @@
+luku1 = int(input("Anna 1. luku: "))
+luku2 = int(input("Anna 2. luku: "))
+print("Lukujen summa on", luku1 + luku2)
+print("Lukujen erotus on", luku1 - luku2)
+print("Lukujen tulo on", luku1 * luku2)
+print("Lukujen jakolaskun tulos on", luku1 / luku2)
