@@ -1,0 +1,5 @@
+age = int(input("Kerro ikäsi: "))
+if age <= 12: print("child")
+if age >= 13 and age <= 19: print("teen")
+if age > 19 and age <= 65: print("adult")
+elif age > 65: print("senior")
