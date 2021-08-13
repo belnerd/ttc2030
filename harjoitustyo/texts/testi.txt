@@ -1,0 +1,7 @@
+Lorem ipsum on 1500-luvulta lähtien olemassa ollut teksti,
+jota käytetään usein täytetekstinä ulkoasun testaamiseen graafisessa suunnittelussa, 
+kun oikeata tekstisisältöä ei vielä ole. Lorem ipsumia käytetään näyttämään, 
+miltä esimerkiksi kirjasin tai julkaisun tekstin asettelu näyttävät.
+>>13.08.2021 klo 11.34 Tapio kirjoitti: Testinä lokimerkintä
+>>13.08.2021 klo 11.40 exit kirjoitti: 
+>>13.08.2021 klo 12.10 Tapio kirjoitti: Uutta testilokia
